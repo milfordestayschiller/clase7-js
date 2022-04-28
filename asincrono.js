@@ -35,3 +35,4 @@ var quitar = document.querySelector(".square");
 
 //Cada 1 segundo se fija si tiene la clase
   setInterval(function () {quitar.classList.toggle('square')}, 1000);
+
