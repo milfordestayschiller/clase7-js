@@ -23,7 +23,7 @@ console.log(parrafo3.textContent)
 
 var divstyle = document.querySelector("#divstyle");
 //Div con estilos
-divstyle.style ="width:90px;height:40px;background:red;"
+//divstyle.style ="width:90px;height:40px;background:red;"
 // no devuelve nada
  //divstyle.classList.add("width:90px;height:40px;background:red")
 
